@@ -72,8 +72,3 @@ lib/
 This app uses the ZoomConnect Interactive API. For more information, visit:
 [https://zoomconnect.com/interactive-api/](https://zoomconnect.com/interactive-api/)
 
-## Security Note
-
-⚠️ **Never commit your API credentials to version control!**
-
-Consider using environment variables or a secure configuration file for production apps.
