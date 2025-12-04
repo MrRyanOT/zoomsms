@@ -12,7 +12,7 @@ Make sure you have Flutter installed. Visit [flutter.dev](https://flutter.dev) f
 Open `lib/api/zoomconnect_service.dart` and replace the placeholder values:
 
 ```dart
-static const String _restApiToken = 'e702a972-2749-4513-a2f9-5ad2bbd22dac';
+static const String _restApiToken = '';
 static const String _emailAddress = 'YOUR_EMAIL_HERE'; // Your ZoomConnect account email
 ```
 
